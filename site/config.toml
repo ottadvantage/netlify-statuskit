@@ -14,4 +14,4 @@ title = "StatusKit"
 # you open or update an incident.
 # Example:
 # systems = ["API", "CDN", "DNS", "Site delivery"]
-systems = ["Advantage", "API", "Drip Campaigns", "Email", "Phone System", "SMS"]
+systems = ["Advantage", "API", "Drip Campaigns", "Email", "Phone System", "Redirector", "SMS", "Surveys"]
